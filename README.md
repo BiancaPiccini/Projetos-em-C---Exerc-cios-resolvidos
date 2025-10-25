@@ -1,1 +1,1 @@
-# Projetos-em-C---Exerc-cios-resolvidos
+# Projetos-em-C-Exercicios-resolvidos
